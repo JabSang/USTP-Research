@@ -1,0 +1,27 @@
+1. Comparing Linear Search and Binary Search Algorithms to Search an Element from a Linear List Implemented through Static Array, Dynamic Array and Linked List - 1
+
+	-> Purely citations (Defines linear search algorithm)
+
+2. A New Modified Linear Search Algorithm - 1
+
+	-> 1st Perfect reference (creates a N midpoint, wherein searching starts at beginning of divided arrays)
+
+3. Two way Linear Search Algorithm - 1
+
+	-> 1st Perfect reference (creates a 1 midpoint, wherein searching starts at beginning and end of the array)
+
+4. Multipart Sequential Search Algorithm - 1
+
+	-> 2nd Perfect reference (creates a N midpoint, wherein searching starts at beginning of divided arrays)
+
+5. To-Fro Sequential Search Algorithm – An Alternative to Linear Search
+
+	-> 1st Perfect reference (creates a 1 midpoint, wherein searching starts at left and right of the array's midpoint)
+
+6. Optimized Search Functionality with Linear Search Algorithm - 1
+
+	-> Purely citations (reads the number of characters present in keyword input to be used as a basis for searching same number of characters in the array)
+
+7. Design and Analysis of Bisecting Linear Search for Sorted Array - 1
+
+	-> 1st Perfect reference (creates a 1 midpoint, wherein searching starts at both ends of divided arrays)
